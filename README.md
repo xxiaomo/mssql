@@ -2,7 +2,7 @@
 
 ## Install
 
-    go get github.com/denisenkom/go-mssqldb
+    go get github.com/xxiaomo/mssql
 
 ## Connection Parameters and DSN
 
